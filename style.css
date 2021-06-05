@@ -229,7 +229,6 @@ nav {
 }
 
 .ruler2 {
-  border: 0;
   width: 90%;
   background-color: #fff;
   height: 1px;
@@ -238,7 +237,6 @@ nav {
 }
 
 .ruler {
-  border: 1;
   width: 90%;
   background-color: #000;
   height: 1px;
